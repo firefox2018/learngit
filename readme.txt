@@ -7,3 +7,4 @@ git checkout -- <file> 把文件在工作区的修改撤销,让file回到最近�
 注意 -- 很重要, 如果没有 -- , git checkout 就是切换分支
 
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
